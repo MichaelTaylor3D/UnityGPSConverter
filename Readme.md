@@ -1,5 +1,16 @@
 GPS Encoder by Michael Taylor | MichaelTaylor3D
+-----------------------------------------
 www.michaeltaylor3d.com
+
+Author: Michael Taylor Contact: www.michaeltaylor3d.com/contact
+
+Copyright (c) Michael Taylor
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License along with this program. If not, see http://www.gnu.org/licenses/.
 
 API:
 
@@ -22,7 +33,7 @@ public static void SetLocalOrigin(Vector2 localOrigin)
 -------------------------------------------------------
 By Default All of your conversions will assume that your using a 
 latitude/longitude origin of (0,0). This places you at the real life origin
-of the earth’s lat/lon just outside of the gulf of new guinea, Africa. When using
+of the earthï¿½s lat/lon just outside of the gulf of new guinea, Africa. When using
 the default (0,0), all your GPS Conversions will be positioned as they would be 
 in real life.
 
