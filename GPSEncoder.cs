@@ -74,7 +74,7 @@ public sealed class GPSEncoder {
 	
 	private static GPSEncoder GetInstance()
 	{
-		if(_singleton == null)
+		if(_singleton.Equals(null))
 		{
 			_singleton = new GPSEncoder();
 		}
@@ -94,7 +94,6 @@ public sealed class GPSEncoder {
 	#region Instance Functions
 	private void FindMetersPerLat(float lat) // Compute lengths of degrees
 	{
-	    // Set up "Constants"
 	    float m1 = 111132.92f;    // latitude calculation term 1
 	    float m2 = -559.82f;        // latitude calculation term 2
 	    float m3 = 1.175f;      // latitude calculation term 3
