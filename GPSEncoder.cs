@@ -74,7 +74,7 @@ public sealed class GPSEncoder {
 	
 	private static GPSEncoder GetInstance()
 	{
-		if(_singleton.Equals(null))
+		if(_singleton == null)
 		{
 			_singleton = new GPSEncoder();
 		}
