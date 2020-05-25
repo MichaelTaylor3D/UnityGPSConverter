@@ -1,8 +1,10 @@
 GPS Encoder by Michael Taylor | MichaelTaylor3D
 -----------------------------------------
-www.michaeltaylor3d.com
+www.michaeltaylor.dev
 
-Author: Michael Taylor Contact: www.michaeltaylor3d.com/contact
+Author: Michael Taylor:
+ENS: michaeltaylor.dev.eth
+ETHER ADDRESS: 0x411b4F2dCFE158114d9396A30c625Bf7DefAD880
 
 Copyright (c) Michael Taylor
 
