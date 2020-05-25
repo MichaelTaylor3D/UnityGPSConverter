@@ -4,7 +4,7 @@ www.michaeltaylor.dev
 
 Author: Michael Taylor:
 
-Donations are welcome :)
+If this library was useful to you, please consider a small donation.
 
 ENS: michaeltaylor.dev.eth
 
