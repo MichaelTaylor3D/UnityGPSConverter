@@ -3,7 +3,11 @@ GPS Encoder by Michael Taylor | MichaelTaylor3D
 www.michaeltaylor.dev
 
 Author: Michael Taylor:
+
+Donations are welcome :)
+
 ENS: michaeltaylor.dev.eth
+
 ETHER ADDRESS: 0x411b4F2dCFE158114d9396A30c625Bf7DefAD880
 
 Copyright (c) Michael Taylor
